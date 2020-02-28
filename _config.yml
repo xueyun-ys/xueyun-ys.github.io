@@ -1,7 +1,7 @@
 # Site settings
 title: My First Blog - Shuai Yang
 SEOTitle: 杨帅的博客 | Terry's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/1573180559497.jpg
 email: xueyun.ys@gmail.com
 description: "Thinking will not overcome fear but action will."
 keyword: "Shuai Yang, Terry's blog, 杨帅的博客, yang shuai, 雪云, animation, FX, Clemson"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xueyun-ys/xueyun-ys.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "诗酒趁年华"
+sidebar-about-description: "诗酒趁年华，不觉晴光短"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
